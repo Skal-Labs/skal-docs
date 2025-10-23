@@ -43,7 +43,6 @@ Thanks to these amazing people:
 We're always looking for passionate students, researchers, and developers!
 
 **Apply:** [skallabs.org/join](https://skallabs.org/join)
-**Discord:** [DISCORD_LINK]
 
 ---
 
