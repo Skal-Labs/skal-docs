@@ -6,8 +6,8 @@
 **Role:** Founder & Research Lead
 **Location:** Eindhoven, Netherlands
 **Focus:** Energy systems, AI/ML, grid optimization
-**GitHub:** [@ahmedelshazly](https://github.com/ahmedelshazly)
-**LinkedIn:** [Ahmed El Shazly](https://linkedin.com/in/ahmed-el-shazly)
+**GitHub:** [@ahmedelshazly](https://github.com/ahmedelshazly27)
+**LinkedIn:** [Ahmed El Shazly](https://www.linkedin.com/in/ahmedelshazly21/)
 
 ---
 
