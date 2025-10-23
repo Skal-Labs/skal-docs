@@ -53,7 +53,7 @@ docs/
 
 ## 📞 Contact
 
-- Discord: [DISCORD_LINK]
+- Discord: [https://discord.gg/E2c9MsQj]
 - Email: ahmed@skallabs.org
 - Website: skallabs.org
 
